@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "ind_ID", 
+  "title": "Apakah Girl Effect itu", 
+  "primary_category": null, 
+  "created_at": "2014-12-02T15:39:16.238440+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-02T15:39:16.238651+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Gagasan Girl Effect diawali ketika sekelompok orang menyadari bahwa, ketika diberikan kesempatan, anak-anak perempuan\r\ndapat menjadi kekuatan paling berkuasa untuk mengubah planet ini. Mereka menyebarkan pesan itu dan sekarang lebih banyak orang, termasuk orang-orang yang berkuasa, meyakini bahwa anak-anak perempuan memiliki potensi untuk mengakhiri kemiskinan mereka sendiri, keluarga mereka, masyarakat mereka dan pada akhirnya dunia.  Dengan semakin banyaknya orang yang menyadari kekuatan anak perempuan, Girl Effect berubah dari suatu gagasan menjadi suatu gerakan.  Saat ini, bahkan lebih banyak orang bergabung dengan Girl Effect, dan kami berharap Anda juga akan bergabung bersama kami.\r\n\r\n\r\nPelajari lebih lanjut di [girleffect.org][1]\r\n\r\n\r\n  [1]: http://girleffect.org", 
+  "source": "6cd055c5836d45afa328d148e32372f8", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "about", 
+  "uuid": "b24eba3fc2494f90a0b7de90bd4c66f2"
+}
