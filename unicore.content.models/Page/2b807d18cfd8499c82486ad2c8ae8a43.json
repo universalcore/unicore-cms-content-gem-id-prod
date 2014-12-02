@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "ind_ID", 
+  "title": "Kiat-kiat Penggunaan", 
+  "primary_category": null, 
+  "created_at": "2014-12-02T15:55:28.606791+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-12-02T15:55:28.607097+00:00", 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Terdapat beberapa aturan dasar yang harus Anda ikuti untuk memastikan Anda dan orang lain tetap aman dan dapat menikmati menggunakan situs web mobile Girl Effect. Jika Anda melanggar aturan ini Anda dapat menerima peringatan, larangan sementara atau permanen. Aturan-aturan tersebut adalah:\r\n\r\n - Pelecehan dan intimidasi orang lain tidak akan ditolerir.\r\n - Hargai pengguna yang lebih muda dan jangan gunakan bahasa kasar, buruk atau menghina atau menyarankan tautan ke materi cabul atau menghina.\r\n - Jangan berikan informasi pribadi Anda. Jangan pernah memberitahukan:\r\n           \r\n       - nama asli Anda (buatlah nama panggilan),\r\n       - usia Anda,\r\n       - alamat Anda,\r\n       - nama sekolah Anda,\r\n       - alamat email atau nomor telepon, atau\r\n       - informasi keuangan atau kata sandi apa pun\r\n\r\n - Hindari bertemu dengan orang yang Anda temui secara online. Tapi jika Anda melakukan pertemuan, pastikan Anda didampingi orang dewasa, orang tua Anda atau wali Anda.\r\n\r\nJika berusia di bawah 13 tahun, Anda tidak boleh menggunakan layanan ini kecuali memiliki izin dari orang tua atau wali Anda dan menggunakan layanan ini sesuai dengan ketentuan. Situs web mobile Girl Effect sesuai untuk pengguna berusia 13 tahun ke atas.", 
+  "source": "3bfdd6f7c08c45199dcfea6957257183", 
+  "featured": false, 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "tips", 
+  "uuid": "2b807d18cfd8499c82486ad2c8ae8a43"
+}
