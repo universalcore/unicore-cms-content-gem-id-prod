@@ -6,19 +6,21 @@
   "primary_category": "9a00ee72ece8429e93d75a2ee770a543", 
   "created_at": "2014-12-03T02:46:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T05:59:05.200731+00:00", 
+  "modified_at": "2014-12-03T07:07:51.208692+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "e2b8793d1e9f48049eeb95d20a9529f5"
+  ], 
   "id": null, 
   "content": "*Beberapa orang menganggap ada pekerjaan yang tidak bisa dilakukan wanita! Beberapa negara bahkan punya undang-undang yang mengatur hal ini. Ini adalah kisah seorang gadis.*\r\n\r\nNama saya Eugenie, saya berusia 18 tahun dan saya tinggal di Rwanda. Awal kisah saya sedih - Ayah dan saudara kandung saya meninggal, meninggalkan saya dan Ibu saya sendiri.  Ibu saya luar biasa.  Terlepas dari saat-saat sulit, ia menunjukkan bagaimana saya bisa mengandalkan diri sendiri dan bisa bekerja keras.  Ia adalah pahlawan saya. Lalu saya berkesempatan untuk membalasnya!\r\n\r\nKetika saya di sekolah dasar, di rumah kami tidak ada listrik. Hal itu membuat tugas dan pekerjaan rumah menjadi sangat sulit. Saya berusaha keras mengerjakan pekerjaan rumah dalam cahaya lilin yang remang-remang. Saya mulai bermimpi, betapa hebatnya jika ada lampu di rumah saya. Untuk tahun berikutnya hanya itu yang saya pikirkan. \r\n\r\nSaya bermimpi menjadi seorang montir listrik. Saya ingin menunjukkan bahwa saya dapat belajar dengan giat dan melakukan pekerjaan dengan baik - bahkan lebih baik dari para anak laki-laki di sekolah!   Saya dapat menjadi seseorang yang membawa cahaya ke desa kami.\r\n\r\nAkhirnya saya berbicara dengan seorang montir listrik di kota. Ia mengajarkan saya bagaimana menyambungkan kabel ke baterai dan menghasilkan listrik. Setelah sedikit pembinaan, saya bisa melakukannya dengan benar! \r\n\r\nKetika para tetangga kami melihat apa yang telah saya lakukan mereka juga ingin listrik di rumah mereka. Saya dapat melakukan hal yang sama, mengadakan listrik di rumah mereka dan meminta sedikit bayaran untuk menerangi rumah mereka juga. Uang yang saya dapatkan dari menjadi montir listrik masyarakat saya gunakan untuk biaya sekolah.  \r\n\r\nSekarang saya di tahun kelima dalam mempelajari teknik listrik di sebuah perguruan tinggi yang sangat bagus di Rwanda. \r\n\r\nSaran saya untuk para perempuan adalah untuk belajar sebanyak yang kamu bisa ketika kamu bersekolah.  Tidak ada pekerjaan yang hanya untuk pria. Penting bagi perempuan untuk belajar pelajaran teknik juga! Wanita bisa menjadi ilmuwan, teknisi dan peneliti yang hebat. Jadi jika ada sesuatu yang menarik bagimu, belajarlah dengan giat dan jangan menyerah. Bersama kita dapat membuat dunia ini menjadi tempat yang lebih baik!\r\n\r\n\r\n", 
   "source": "bcd944ba380f440c809ec53c0c152581", 
-  "featured": false, 
+  "featured": true, 
   "image": null, 
   "published": null, 
   "position": 22, 
