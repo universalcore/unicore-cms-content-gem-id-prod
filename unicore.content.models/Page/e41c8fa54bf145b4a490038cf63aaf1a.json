@@ -4,25 +4,28 @@
   "language": "ind_ID", 
   "title": "Apakah kamu dalam kelompok yang buruk?", 
   "primary_category": "90138c8055364f4e87628d4741add7e8", 
-  "created_at": "2014-12-03T04:02:50.791964+00:00", 
+  "created_at": "2014-12-03T04:02:50+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T04:02:50.792150+00:00", 
+  "modified_at": "2014-12-10T14:40:08.094906+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "75552eb1a77f4cf698fa41cc91c05a19"
+  ], 
   "id": null, 
-  "content": "**Apakah kamu dalam kelompok yang buruk? Bertemanlah dengan orang-orang baik untuk kehidupanmu**\r\n\r\n - Pilihlah teman-teman kamu dengan bijak. Kelilingi dirimu dengan orang-orang positif yang akan mendorongmu untuk selalu mencoba bahkan ketika kamu putus asa. \r\n - Hindari berteman dengan orang-orang yang menertawakan atau merendahkanmu.\r\n - Berkumpullah dengan orang-orang yang menginginkan hal baik sama seperti kamu. Pilihlah teman-teman yang memiliki mimpi untuk tetap bersekolah, meraih nilai yang baik dan menciptakan peluang untuk diri mereka sendiri. Mereka memiliki masa depan hebat yang menanti - sama seperti kamu!\r\n - Teman yang baik adalah seseorang yang kamu cintai dan dukung dalam suka dan duka. Dan mereka akan melakukan hal yang sama kepadamu. Teman sejati memiliki arah dan visi untuk masa depan mereka. Teman saling membantu dalam menghindari pengambilan keputusan buruk yang dapat merusak masa depan mereka.\r\n - Jadilah teman yang baik. Mendengarkan, mendukung, dan dapat dipercaya. Saling membantu satu sama lain, dan maafkan teman yang melakukan kesalahan. \r\n\r\nLeidy is a 17-year-old Colombian girl. The drug trade and an ongoing conflict\r\nmake certain neighbourhoods - or barrios - in her city of Bogota very\r\ndangerous, especially for young girls. This is her story:\r\n", 
+  "content": "**Apakah kamu dalam kelompok yang buruk? Bertemanlah dengan orang-orang baik untuk kehidupanmu**\r\n\r\n - Pilihlah teman-teman kamu dengan bijak. Kelilingi dirimu dengan orang-orang positif yang akan mendorongmu untuk selalu mencoba bahkan ketika kamu putus asa. \r\n - Hindari berteman dengan orang-orang yang menertawakan atau merendahkanmu.\r\n - Berkumpullah dengan orang-orang yang menginginkan hal baik sama seperti kamu. Pilihlah teman-teman yang memiliki mimpi untuk tetap bersekolah, meraih nilai yang baik dan menciptakan peluang untuk diri mereka sendiri. Mereka memiliki masa depan hebat yang menanti - sama seperti kamu!\r\n - Teman yang baik adalah seseorang yang kamu cintai dan dukung dalam suka dan duka. Dan mereka akan melakukan hal yang sama kepadamu. Teman sejati memiliki arah dan visi untuk masa depan mereka. Teman saling membantu dalam menghindari pengambilan keputusan buruk yang dapat merusak masa depan mereka.\r\n - Jadilah teman yang baik. Mendengarkan, mendukung, dan dapat dipercaya. Saling membantu satu sama lain, dan maafkan teman yang melakukan kesalahan. \r\n\r\n**Leidy adalah seorang gadis Kolombia berusia 17 tahun. Perdagangan obat dan konflik yang berkelanjutan membuat lingkungan tertentu - atau barrio di kotanya, Bogota, sangat berbahaya, khususnya untuk perempuan muda. Ini adalah kisahnya:**\r\n", 
   "source": "8e2ab677eaf54667af590f3e5a5b4ffa", 
   "featured": false, 
+  "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 8, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "apakah-kamu-dalam-kelompok-yang-buruk", 
   "uuid": "e41c8fa54bf145b4a490038cf63aaf1a"
 }
