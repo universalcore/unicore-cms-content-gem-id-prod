@@ -4,25 +4,28 @@
   "language": "ind_ID", 
   "title": "Apakah kamu diperlakukan dengan buruk?", 
   "primary_category": "90138c8055364f4e87628d4741add7e8", 
-  "created_at": "2014-12-03T04:09:37.999978+00:00", 
+  "created_at": "2014-12-03T04:09:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T04:09:38.000430+00:00", 
+  "modified_at": "2014-12-10T14:20:39.832985+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "73ca2e518b224311ad0a11f2a4a23273"
+  ], 
   "id": null, 
-  "content": "**Apakah kamu diperlakukan dengan buruk? Kamu punya hak**\r\n\r\n - Di banyak negara para wanita dan gadis memiliki hak yang sama dengan pria sesuai dengan undang-undang, dan dianggap setara dalam semua aspek. Tapi hal ini tidak selalu dipraktekkan di rumah. \r\n - Kamu punya hak untuk diperlakukan dengan hormat serta merasa aman dan selamat di rumah kamu. Jika tidak demikian maka beritahukan seseorang yang kamu percayai seperti guru atau pemimpin desa. Suatu masalah yang dibagi dapat mengangkat bebannya.  \r\n - Jika seseorang yang lebih tua mencoba untuk menakutimu dengan berteriak padamu atau menyakitimu, hal itu bisa menjadi penyiksaan dan itu salah. Cari orang dewasa yang kamu percayai untuk membantumu\r\n - Tidak ada hal yang lebih traumatis bagi seorang anak selain kehilangan salah seorang atau kedua orangtuanya. Tumbuh besar tanpa orangtua atau orang dewasa yang menyayangi dan merawatmu dapat berarti kamu lebih berisiko celaka. Tapi kamu masih memiliki akses untuk hak pendidikan dan perawatan kesehatan. \r\n\r\n\r\n**When Preity was young she lived with her aunt and uncle. They made her believe\r\nthey had the right to beat and mistreat her. This is her story:**", 
+  "content": "**Apakah kamu diperlakukan dengan buruk? Kamu punya hak**\r\n\r\n - Di banyak negara para wanita dan gadis memiliki hak yang sama dengan pria sesuai dengan undang-undang, dan dianggap setara dalam semua aspek. Tapi hal ini tidak selalu dipraktekkan di rumah. \r\n - Kamu punya hak untuk diperlakukan dengan hormat serta merasa aman dan selamat di rumah kamu. Jika tidak demikian maka beritahukan seseorang yang kamu percayai seperti guru atau pemimpin desa. Suatu masalah yang dibagi dapat mengangkat bebannya.  \r\n - Jika seseorang yang lebih tua mencoba untuk menakutimu dengan berteriak padamu atau menyakitimu, hal itu bisa menjadi penyiksaan dan itu salah. Cari orang dewasa yang kamu percayai untuk membantumu\r\n - Tidak ada hal yang lebih traumatis bagi seorang anak selain kehilangan salah seorang atau kedua orangtuanya. Tumbuh besar tanpa orangtua atau orang dewasa yang menyayangi dan merawatmu dapat berarti kamu lebih berisiko celaka. Tapi kamu masih memiliki akses untuk hak pendidikan dan perawatan kesehatan. \r\n\r\n**Ketika Preity masih kecil, ia tinggal bersama paman dan bibinya. Mereka membuatnya percaya bahwa mereka berhak memukuli dan menganiaya dirinya. Ini adalah kisahnya:**", 
   "source": "47260361e5c6462abdb32b5658f52aef", 
   "featured": false, 
+  "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "position": 6, 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "are-you-being-treated-badly", 
   "uuid": "39365be010b94913a2585838b4d7c348"
 }
