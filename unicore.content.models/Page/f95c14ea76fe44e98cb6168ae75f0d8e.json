@@ -6,25 +6,26 @@
   "primary_category": "90138c8055364f4e87628d4741add7e8", 
   "created_at": "2014-12-03T04:13:28+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-12-03T07:04:22.700250+00:00", 
+  "modified_at": "2014-12-10T14:16:48.389642+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "913571bea86448899920f1155e9a39e6"
   ], 
   "id": null, 
-  "content": "**Apakah pubertas itu?**\r\n\r\nPubertas adalah saat di mana kamu mengalami banyak perubahan. Tubuh kamu akan mulai berubah dan kamu akan mendapati suasana hati kamu berubah. Berikut adalah beberapa hal yang dapat terjadi:\r\n\r\n - Kamu akan melihat dada kamu mulai tumbuh dan kamu akan mulai memiliki rambut kemaluan. Inilah saat ketika kamu juga mulai mengalami menstruasi. \r\n - Normal untuk merasa aneh dan sensitif tentang perubahan pada tubuh kamu. Kamu dapat merasa terganggu, marah, atau merasa tertekan. Bagus jika kamu dapat membicarakannya dengan seseorang ketika kamu merasakan hal ini.\r\n - Pubertas terjadi pada setiap anak perempuan dan laki-laki, tapi tidak semua mengalaminya pada usia yang sama. Cara kamu tumbuh mungkin berbeda dengan cara teman kamu tumbuh. Ini dapat membuat kamu merasa khawatir atau tertinggal - tapi ingatlah bahwa setiap orang berbeda dan tubuh kamu akan berkembang dengan kecepatannya sendiri. \r\n - Selama pubertas kamu mungkin lebih ingin berbicara dengan temanmu daripada dengan orang dewasa. Ingatlah untuk memilih teman yang baik yang membangun kamu dan memiliki mimpi serta tujuan yang sama. \r\n\r\n**Puberty is a name for the time when you start to change from a child to an adult. Puberty is normal\u2014it happens to everyone. You'll go through a lot of changes, but you will still be YOU\u2014with some important di\ufb00erences. This is one girl\u2019s story:** \r\n\r\n\r\n", 
+  "content": "**Apakah pubertas itu?**\r\n\r\nPubertas adalah saat di mana kamu mengalami banyak perubahan. Tubuh kamu akan mulai berubah dan kamu akan mendapati suasana hati kamu berubah. Berikut adalah beberapa hal yang dapat terjadi:\r\n\r\n - Kamu akan melihat dada kamu mulai tumbuh dan kamu akan mulai memiliki rambut kemaluan. Inilah saat ketika kamu juga mulai mengalami menstruasi. \r\n - Normal untuk merasa aneh dan sensitif tentang perubahan pada tubuh kamu. Kamu dapat merasa terganggu, marah, atau merasa tertekan. Bagus jika kamu dapat membicarakannya dengan seseorang ketika kamu merasakan hal ini.\r\n - Pubertas terjadi pada setiap anak perempuan dan laki-laki, tapi tidak semua mengalaminya pada usia yang sama. Cara kamu tumbuh mungkin berbeda dengan cara teman kamu tumbuh. Ini dapat membuat kamu merasa khawatir atau tertinggal - tapi ingatlah bahwa setiap orang berbeda dan tubuh kamu akan berkembang dengan kecepatannya sendiri. \r\n - Selama pubertas kamu mungkin lebih ingin berbicara dengan temanmu daripada dengan orang dewasa. Ingatlah untuk memilih teman yang baik yang membangun kamu dan memiliki mimpi serta tujuan yang sama. \r\n\r\n\r\n**Pubertas adalah sebutan ketika kamu mulai berubah dari seorang anak menjadi seorang dewasa.\r\nPubertas adalah normal - hal ini terjadi kepada semua orang. Kamu akan mengalami banyak perubahan, tapi kamu masih akan tetap menjadi KAMU - dengan beberapa perbedaan penting.\r\nIni adalah kisah seorang gadis**\r\n\r\n\r\n\r\n", 
   "source": "4b9e54f1c2c547ba92fac4ee0da7ff1d", 
   "featured": false, 
+  "author_tags": [], 
   "image": null, 
   "published": null, 
   "position": 5, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "what-puberty", 
   "uuid": "f95c14ea76fe44e98cb6168ae75f0d8e"
 }
