@@ -4,14 +4,14 @@
   "language": "ind_ID", 
   "title": "Aku punya mimpi besar untuk masa depanku..", 
   "primary_category": "9a00ee72ece8429e93d75a2ee770a543", 
-  "created_at": "2015-01-25T00:22:59.607126+00:00", 
+  "created_at": "2015-01-25T00:22:59+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-25T00:22:59.607389+00:00", 
+  "modified_at": "2015-01-25T00:30:21.495284+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "i-have-big-dreams-my-future", 
   "uuid": "2cf17ae0095d46ca92c26a581d50dde1"
