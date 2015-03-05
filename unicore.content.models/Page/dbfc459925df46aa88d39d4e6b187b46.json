@@ -6,19 +6,21 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-03-04T04:25:01+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-04T05:36:19.053681+00:00", 
+  "modified_at": "2015-03-05T03:54:29.339680+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "cd61ed22711943aeafb61cef7543de9e"
+  ], 
   "id": null, 
   "content": "**Bagaimana caranya bilang TIDAK? Simak kiat-kiatnya:**\r\n\r\n - Rencanakan. Pikirkan situasi yang akan kamu hadapi sebelumnya.\r\n   Rencanakan gimana kamu akan bilang \"tidak.\" Katakan dengan lantang\r\n   dan cara yang berbeda. Kamu bisa praktekkan di depan cermin atau\r\n   dengan sahabatmu.\r\n - Hindari. Cobalah untuk hindari menghabiskan waktu dengan orang-orang\r\n   yang buat kamu ngga nyaman atau coba memaksa kamu buat melakukan\r\n   hal-hal yang ngga mau kamu lakukan.\r\n - Bilang dengan lantang. Kalau ada orang yang coba memaksa kamu\r\n   melakukan sesuatu yang kamu tahu ngga seharusnya kamu lakukan, atau\r\n   sesuatu yang buat kamu merasa gugup, bilang **TIDAK** dengan lantang.\r\n   Atau kamu bisa bilang, \"Tidak, terima kasih. Aku ngga melakukan itu.\"\r\n - Lakukan hal yang cerdas: Tanyakan diri kamu sendiri apa\r\n   konsekuensinya? Hal buruk apa yang bakal terjadi? Apa yang bakal ada\r\n   di pikiran teman-teman dan keluarga kamu kalau seandainya kamu\r\n   membuat pilihan ini?\r\n - Cegah kehamilan. Jika kamu ingin menghindari kehamilan ketika\r\n   melakukan hubungan seksual, kamu harus menggunakan alat kontrasepsi\r\n   yang paling sesuai untuk kamu. Beberapa alat kontrasepsi disediakan\r\n   gratis oleh pemerintah, klinik atau organisasi lain. Eksplorasi di\r\n   sekitar tempat kamu untuk mencari tahu tempat kamu bisa\r\n   mendapatkannya. Kondom dapat mencegah kehamilan dan juga melindungi\r\n   kamu dari penyakit menular seksual.  Hindari lakukan hubungan seks di\r\n   usia dini. Pikirkan masa depan yang jauh lebih berharga dan cerah\r\n   untuk diri kamu sendiri.\r\n\r\n**Di seluruh penjuru dunia, banyak gadis remaja yang hamil sebelum mereka siap. Khadijah dari Malawi adalah salah satunya. Inilah ceritanya:**", 
   "source": null, 
-  "featured": true, 
+  "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
