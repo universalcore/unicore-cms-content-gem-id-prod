@@ -6,19 +6,21 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-03-04T04:55:12+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-04T05:42:43.567372+00:00", 
+  "modified_at": "2015-03-05T03:49:05.206913+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "bea1d42fa6554a7599b523384d0a8ff4"
+  ], 
   "id": null, 
   "content": "**Kenapa harus giat belajar? Karena pendidikan bisa buat masa depan kamu cerah!**\r\n\r\n - Kadang-kadang sekolah bisa betul-betul menantang, dan juga susah\r\n   sekali buat mengikuti sebegitu banyaknya pelajaran yang berbeda. Tapi\r\n   kamu harus tahu kalau pengetahuan yang luas adalah dasar yang bakal\r\n   membantu kamu waktu terjun buat mengejar mimpi kamu di dunia.\r\n\r\n - Kalau kamu ngga bersekolah, coba cari program pelatihan atau orang\r\n   yang bakal bantu kamu mempelajari suatu keterampilan dan meraih\r\n   cita-citamu. Cari seseorang yang bisa dijadikan panutan - seseorang\r\n   yang kamu kagumi, seorang guru, atau bahkan orang tua. Mintalah\r\n   bantuan dan inspirasi selagi kamu menjalaninya.\r\n\r\n - Cita-cita adalah sesuatu yang secara pribadi mau kamu capai. Penting\r\n   loh, untuk menentukan cita-cita dalam hidup kamu. Dengan cara ini,\r\n   kamu bisa buat rencana yang harus dilakukan buat meraih cita-cita\r\n   ini. Kamu bisa bawa buku catatan kemana pun kamu pergi supaya kamu\r\n   tetap bisa menulis mimpi dan cita-cita kamu di suatu tempat. Periksa\r\n   terus kemajuannya.\r\n\r\n - Tetapkan cita-cita yang bakal buat kamu termotivasi dan fokus pada\r\n   pekerjaan sekolah atau pelatihan. Apakah kamu mau lulus? Jadi yang\r\n   teratas di kelas? Atau perbaiki nilai-nilai kamu? Tulis dan baca\r\n   sesering mungkin.\r\n\r\n**Beberapa orang menganggap ada pekerjaan yang ngga bisa dilakukan wanita! Beberapa negara bahkan punya undang-undang yang mengatur hal ini. Eugenie ngga percaya. Baca ceritanya di sini:**", 
   "source": null, 
-  "featured": true, 
+  "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
