@@ -6,15 +6,17 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-03-04T03:47:39+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-04T05:14:30.160682+00:00", 
+  "modified_at": "2015-03-05T04:05:06.681387+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "6aa6fee67f6a44f4aed8ee05b404f6ae"
+  ], 
   "id": null, 
   "content": "**Apa kamu ada dalam lingkungan pergaulan yang buruk? Bertemanlah sama orang-orang yang baik buat hidup kamu.**\r\n\r\n - Pilih teman-teman kamu dengan bijak. Kelilingi diri kamu sama\r\n   orang-orang positif yang bakal mendorong kamu buat selalu mencoba\r\n   bahkan pada waktu kamu sedang putus asa.\r\n - Hindari berteman sama orang-orang yang menertawakan atau merendahkan\r\n   kamu.\r\n - Bergaullah sama orang-orang yang memang mau hal baik sama seperti\r\n   kamu. Pilih teman-teman yang punya mimpi untuk tetap bersekolah, yang\r\n   mau punya nilai bagus, dan yang menciptakan peluang buat diri mereka\r\n   sendiri. Mereka akan punya masa depan hebat - sama seperti kamu!\r\n - Teman yang baik adalah seseorang yang kamu cintai dan dukung dalam\r\n   keadaan senang ataupun susah. Dan mereka juga lakukan hal yang sama\r\n   buat kamu. Teman yang sebenarnya itu punya arah dan visi buat masa\r\n   depan mereka. Teman itu saling membantu satu sama lain supaya jangan\r\n   sampai membuat keputusan yang salah yang bisa merusak masa depan\r\n   mereka.\r\n - Jadilah teman yang baik. Yang mendengarkan, mendukung, dan bisa\r\n   dipercaya. Saling membantu satu sama lain dan memaafkan teman yang\r\n   melakukan kesalahan.\r\n\r\n**Leidy adalah seorang gadis Kolombia berusia 17 tahun. Perdagangan narkoba dan konflik yang terus-menerus buat lingkungan tertentu - atau barrio - di kotanya, Bogota, sangat berbahaya, khususnya buat gadis-gadis remaja. Inilah ceritanya:** ", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 27, 
+  "position": 11, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "areyouinabadcrowd", 
   "uuid": "d78277bb57104496ba5807278264c6b4"
