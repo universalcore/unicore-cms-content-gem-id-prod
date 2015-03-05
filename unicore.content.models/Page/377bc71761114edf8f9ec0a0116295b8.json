@@ -6,19 +6,21 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-03-04T04:00:14+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-04T05:20:34.311170+00:00", 
+  "modified_at": "2015-03-05T04:01:14.222401+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "c1dbf37e51dc47be9cca9aed036eab4f"
+  ], 
   "id": null, 
   "content": "**Apa kamu merasa sendirian di dunia ini? Inilah cara mengatasinya.**\r\n\r\n - Kamu bisa merasa kesepian sekalipun segala sesuatunya kelihatan\r\n   berjalan sesuai keinginanmu. Mungkin kamu kesepian dan ngga punya\r\n   pilihan atas hal ini, atau kamu ngga merasa jadi bagian dari suatu\r\n   kelompok atau peristiwa, atau kamu ngga punya siapa pun yang bisa\r\n   memahami kamu. Merasa sendirian bisa memunculkan jutaan pertanyaan\r\n   dalam diri kita. Kenapa itu terjadi? Apa ini salah aku?\r\n - Sering merasa kesepian buat kamu mau menarik diri, tapi ada\r\n   orang-orang yang berusaha mengulurkan tangan kepadamu.\r\n - Pelan-pelan kumpulkan teman yang mendukung dan orang-orang yang penuh\r\n   kasih sayang di sekeliling kamu. Punya orang yang bisa kamu ajak\r\n   bicara dalam hidup ini bakal bantu kamu belajar mengatasi kekecewaan\r\n   dan kehilangan. Seiring berjalannya waktu, kamu bakal mulai percaya\r\n   sama orang lain lagi.\r\n - Cari kelompok pendukung. Fatuma menemukan Heshima Kenya dan ada\r\n   kelompok pendukung lainnya di setiap negara di dunia yang\r\n   bersama-sama bisa bantu kamu mendapatkan kehidupan kamu kembali.\r\n   Tanyakan ke kantor polisi, sekolah, atau orang dewasa yang kamu kenal\r\n   buat bantu kamu cari kelompok pendukung ini.\r\n - Kamu ngga sendirian. Ngga setiap orang punya keluarga dan ada\r\n   remaja-remaja lain yang seperti kamu. Kamu bisa bangun hubungan yang\r\n   kuat dan erat dengan jadi teman baik buat orang lain.\r\n\r\n**Beberapa tahun ini, pengungsi dari Somalia, Sudan, Ethiopia, dan Republik Demokrasi Congo melarikan diri dari kekerasan di negara mereka dan sampai di Kenya. Baca cerita Fatuma.**", 
   "source": null, 
-  "featured": true, 
+  "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
