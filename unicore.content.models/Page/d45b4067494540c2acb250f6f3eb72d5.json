@@ -6,19 +6,21 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-03-04T04:34:29+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-04T05:49:45.506745+00:00", 
+  "modified_at": "2015-03-05T03:52:35.447286+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "d00f80acbbb34c4d8e758495ec96a2f5"
+  ], 
   "id": null, 
   "content": "**Jaga diri kamu sendiri**\r\n\r\nSayangnya, dunia kita ngga selalu aman dan tentram - khususnya buat gadis remaja dan wanita muda. Pelecehan seksual bisa terjadi sama gadis-gadis remaja di rumah mereka sendiri, sekolah, pasar, tempat kerja, atau di mana saja. Kamu harus bersiap diri buat situasi ini. \r\n\r\nInilah beberapa hal yang bisa kamu **LAKUKAN** buat membantu kamu menjaga diri:\r\n\r\n - Hindari lokasi berisiko: kalau kamu tahu beberapa tempat yang bakal\r\n   kamu datangi berisiko secara fisik atau lainnya - coba buat hindari\r\n   pergi ke tempat-tempat itu.\r\n - Gunakan sistem teman: pergi ke tempat-tempat umum sama satu teman\r\n   atau lebih - jangan pergi sendirian!\r\n - Cari pendamping yang bisa dipercaya: Kalau kamu merasa ngga aman di\r\n   tempat tertentu pada saat tertentu (seperti berjalan ke atau dari\r\n   sekolah), tapi kamu tetap **HARUS PERGI**, mintalah seseorang yang kamu\r\n   percaya buat temani kamu.\r\n - Selalu beritahu orang lain kemana/kapan kamu pergi dan kapan kamu\r\n   bakal kembali. Kalau mungkin, minta seseorang buat temui kamu di\r\n   tempat tujuan  kamu itu. Dengan cara ini, kalau seandainya terjadi\r\n   sesuatu, yang lain bakal tahu dan bisa melakukan sesuatu.\r\n - **BERITAHU** orang dewasa kalau sesuatu terjadi sama kamu atau\r\n   teman-teman kamu - dan dorong mereka untuk memastikan situasi\r\n   teratasi dan ngga terjadi lagi!\r\n - **BUAT RENCANA:** Cari orang dewasa yang kamu percaya yang bisa kamu\r\n   temui kalau sesuatu yang buruk menimpa kamu. Kamu harus tahu kemana\r\n   mencari orang ini atau bagaimana menghubunginya waktu kamu perlu\r\n   bantuan. Bicarakan sama teman-teman lainnya tentang mencari orang\r\n   yang bisa kalian percaya dan menjaga satu sama lain tetap aman.\r\n\r\n**Banyak gadis remaja dan wanita di India diharapkan tinggal di rumah dimana mereka lebih aman dari pelecehan di luar sana. Tapi banyak dan makin banyak lagi gadis remaja yang menemukan keberanian buat mengubah hal itu. Inilah cerita seorang gadis remaja:**", 
   "source": null, 
-  "featured": true, 
+  "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
