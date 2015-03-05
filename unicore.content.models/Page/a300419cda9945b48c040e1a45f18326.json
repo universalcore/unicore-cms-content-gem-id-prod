@@ -6,12 +6,12 @@
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-03-04T03:41:36+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-05T04:05:06.784524+00:00", 
+  "modified_at": "2015-03-05T04:06:08.926216+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,7 +20,7 @@
   "id": null, 
   "content": "**Apa kamu diperlakukan dengan buruk? Kamu kan, punya hak!**\r\n\r\n - Di banyak negara, wanita dan gadis remaja punya hak yang sama dengan\r\n   pria sesuai undang-undang dan dianggap setara dalam semua hal. Tapi\r\n   ini ngga selalu dipraktekkan di rumah.\r\n - Kamu punya hak buat diperlakukan dengan hormat, dan merasa aman dan\r\n   selamat di rumah kamu sendiri. Kalau kamu ngga diperlakukan dengan\r\n   hormat di rumah sendiri, maka beri tahu seseorang yang kamu percaya\r\n   seperti guru atau aparat yang berwenang. Berbagi masalah kamu sama\r\n   orang lain bisa mengangkat beban kamu.\r\n - Kalau seseorang yang lebih tua coba buat menakuti kamu dengan\r\n   berteriak ke kamu atau menyakiti kamu, hal itu bisa berubah jadi\r\n   kasar dan itu salah. Cari orang dewasa yang kamu percaya buat bantu\r\n   kamu.\r\n - Ngga ada hal yang lebih traumatis buat seorang anak selain kehilangan\r\n   salah satu atau kedua orangtuanya. Tumbuh besar tanpa orangtua atau\r\n   orang dewasa yang sayang sama kamu dan merawat kamu bisa buat kamu\r\n   lebih berisiko ada dalam bahaya. Tapi kamu tetap masih punya hak buat\r\n   pendidikan dan perawatan kesehatan.\r\n\r\n**Waktu Preity masih kecil, dia tinggal sama om dan tantenya. Mereka membuat dia percaya kalau mereka punya hak buat memukul dan menganiaya dirinya. Inilah ceritanya:**", 
   "source": null, 
-  "featured": true, 
+  "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
