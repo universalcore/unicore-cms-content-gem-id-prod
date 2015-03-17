@@ -1,17 +1,17 @@
 {
-  "subtitle": "Pubertas adalah keadaan saat kamu ngalami banyak perubahan. ", 
-  "description": "Pubertas adalah keadaan saat kamu ngalami banyak perubahan. ", 
+  "subtitle": "Pubertas adalah keadaan saat kamu mengalami banyak perubahan. ", 
+  "description": "Pubertas adalah keadaan saat kamu mengalami banyak perubahan. ", 
   "language": "ind_ID", 
   "title": "Pubertas? Apa Sih Itu?", 
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-03-04T04:50:11+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-17T08:46:23.927204+00:00", 
+  "modified_at": "2015-03-17T08:54:24.841675+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
