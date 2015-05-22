@@ -5,13 +5,13 @@
   "title": "Aku dulu gadis remaja populer", 
   "primary_category": "0fabf1c73a474715adce159392bb7611", 
   "created_at": "2015-03-04T04:17:23+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2015-05-22T03:27:20.584219+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-22T03:27:44.134497+00:00", 
   "_version": {
     "package_version": "1.0.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
