@@ -5,13 +5,13 @@
   "title": "Lebih Dekat, Lebih Baik", 
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-07-16T06:48:30+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2015-07-16T06:57:14.526035+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-08-05T10:24:51.669395+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "3e87f6e5381b44538ab63cca42d673fd", 
   "published": null, 
-  "position": 2, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "getcloserfeelbetter", 
   "uuid": "9f3a52b81f3d4768aa6ee9435d2cf7b8"
