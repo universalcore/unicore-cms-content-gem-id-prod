@@ -5,13 +5,13 @@
   "title": "Mengartikan \u2018Kamu\u2019", 
   "primary_category": "48a868d96d0946f296492fec37eb9b88", 
   "created_at": "2015-05-20T06:17:22+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2015-08-17T09:52:04.405266+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-12-31T08:22:45.950451+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "48e3e2187ac544f3a2972768fb72f213", 
   "published": null, 
-  "position": 19, 
+  "position": 28, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "definingyou", 
   "uuid": "25ec065d45484321ab9a147a83fce5b7"
